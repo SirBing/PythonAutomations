@@ -1,0 +1,4 @@
+:loop
+start python C:\Users\Moritz\Documents\Visual Studio 2017\Python Automations\moveFiles.py
+timeout /t 10 /nobreak
+goto :loop
